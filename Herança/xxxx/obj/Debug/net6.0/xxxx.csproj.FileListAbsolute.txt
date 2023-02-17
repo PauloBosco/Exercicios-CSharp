@@ -1,0 +1,15 @@
+C:\Programação\C#\Classes\Herança\xxxx\bin\Debug\net6.0\xxxx.exe
+C:\Programação\C#\Classes\Herança\xxxx\bin\Debug\net6.0\xxxx.deps.json
+C:\Programação\C#\Classes\Herança\xxxx\bin\Debug\net6.0\xxxx.runtimeconfig.json
+C:\Programação\C#\Classes\Herança\xxxx\bin\Debug\net6.0\xxxx.dll
+C:\Programação\C#\Classes\Herança\xxxx\bin\Debug\net6.0\xxxx.pdb
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.csproj.AssemblyReference.cache
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.AssemblyInfoInputs.cache
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.AssemblyInfo.cs
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.dll
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\refint\xxxx.dll
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.pdb
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\xxxx.genruntimeconfig.cache
+C:\Programação\C#\Classes\Herança\xxxx\obj\Debug\net6.0\ref\xxxx.dll

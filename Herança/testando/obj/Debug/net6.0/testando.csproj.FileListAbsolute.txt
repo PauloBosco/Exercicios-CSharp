@@ -1,0 +1,15 @@
+C:\Programação\C#\Classes\Herança\testando\bin\Debug\net6.0\testando.exe
+C:\Programação\C#\Classes\Herança\testando\bin\Debug\net6.0\testando.deps.json
+C:\Programação\C#\Classes\Herança\testando\bin\Debug\net6.0\testando.runtimeconfig.json
+C:\Programação\C#\Classes\Herança\testando\bin\Debug\net6.0\testando.dll
+C:\Programação\C#\Classes\Herança\testando\bin\Debug\net6.0\testando.pdb
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.csproj.AssemblyReference.cache
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.AssemblyInfoInputs.cache
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.AssemblyInfo.cs
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.dll
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\refint\testando.dll
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.pdb
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\testando.genruntimeconfig.cache
+C:\Programação\C#\Classes\Herança\testando\obj\Debug\net6.0\ref\testando.dll
